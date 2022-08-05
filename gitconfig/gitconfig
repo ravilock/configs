@@ -1,7 +1,5 @@
 [user]
 	email = ravi.me.professional@hotmail.com
 	name = ravilock
-[includeIf "gitdir:~/Projects/O2B/"]
-	path = ~/.gitconfig-o2b
 [includeIf "gitdir:~/Projects/ewally/"]
 	path = ~/.gitconfig-ewally
